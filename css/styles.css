@@ -51,7 +51,7 @@ h3 {
 }
 
 .skill-row {
-  width: 70%;
+  width: 50%;
   margin: 50px auto 50px auto;
   text-align: left;
   line-height: 2;
@@ -61,32 +61,37 @@ h3 {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  float: left;
+  position: absolute;
+  top: 900px;
+  left: 20px;
 }
 
 .profile1 {
-  width: 50px;
-  float: left;
-  margin-right: 30px;
+  width: 100px;
+  position: relative;
+  right: 200px;
+  top: 150px;
 }
 
 .profile2 {
-  width: 50px;
-  float: left;
-  margin-right: 30px;
+  width: 100px;
+  position: relative;
+  right: 300px;
+  top: 150px;
 }
 
 .html5 {
   width: 100px;
-  float:right;
-  margin-left: 20px;
+  position: relative;
+  left: 450px;
+  top: 150px;
 }
 
 .css {
   width: 100px;
-
-  float: right;
-  margin-left: 20px;
+  position: relative;
+  left: 550px;
+  top: 150px;
 }
 
 .c1 {
