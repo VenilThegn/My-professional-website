@@ -19,6 +19,12 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
 }
+hr{
+  border:dotted lightblue 6px;
+  border-bottom: none;
+  width: 6%;
+  margin:100px auto;
+}
 
 .about {
   position: absolute;
